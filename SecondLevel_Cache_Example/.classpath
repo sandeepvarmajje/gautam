@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/sprig-26-may-sat/libs/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/ehcache-3.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/hibernate-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/mysql.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/hibernate-core-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/hibernate-ehcache-4.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/ehcache-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/MySQL_softwer_and_jar fils/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/asm-attrs-1.5.4-snapshot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/cglib-3.2.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
